@@ -190,7 +190,8 @@
   name: Racing 2048
   author: hcz
 
-- url: http://hczhcz.github.io/2048/
+- 
+url: http://hczhcz.github.io/2048/
   name: Upside Down 2048
   author: hcz
 
@@ -696,4 +697,8 @@
 
 - url: http://www.kongregate.com/games/random_strangers/hard-2048-3x3
   name: Hard 2048 3x3
-  author: Arek Paterek
+  author: Arek  
+
+- url: http://http://community.usvsth3m.com/2048/infinity-blade-edition-4/
+  name: 2048 Infinity Blade
+  author: MasterRjoss 
